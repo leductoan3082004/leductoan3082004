@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toan Le</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leductoan3082004" alt="leductoan3082004" /></a> </p>
-
 - 🌱 I’m currently learning **Devops and C++ dev**
 
 - 📫 How to reach me **leductoan3082004@gmail.com**

@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Toan Le</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-- 🌱 I’m currently learning **Devops and C++ dev**
+- Currently working as a Fullstack Infrastructure Developer at Singapore Undisclosed Hedge Funds.
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **leductoan3082004@gmail.com**
 
